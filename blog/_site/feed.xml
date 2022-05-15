@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Things I think are interesting or useful.</description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 May 2022 23:34:46 -0400</pubDate>
-    <lastBuildDate>Sat, 14 May 2022 23:34:46 -0400</lastBuildDate>
+    <link>/blog/</link>
+    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 May 2022 00:04:54 -0400</pubDate>
+    <lastBuildDate>Sun, 15 May 2022 00:04:54 -0400</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -26,8 +26,8 @@ To add new posts, simply add a file in the &lt;code class=&quot;language-plainte
 
 </description>
         <pubDate>Sun, 10 Nov 2013 05:18:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</guid>
+        <link>/blog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/blog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</guid>
         
         
         <category>Thriller</category>
